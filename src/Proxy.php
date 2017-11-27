@@ -2,13 +2,13 @@
 
 namespace Skvrd\ProxyAPI;
 
-class MongoService {
+class Proxy {
     
     public function __construct() {
 
     }
     
     public function get() {
-        return ("Test");
+        return "Test";
     }
 }
