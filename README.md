@@ -20,4 +20,14 @@ Now you can access proxy instance like so:
 
 ```$proxy->get();``` will return json object of proxy data.
 
+
+# Using API
+
+You can use proxyapi.me API whereever you want to.
+simply call http://proxyapi.me/api/proxy to get random checked proxy.
+
+There are no limitations currently, however there are around 300 rotating working proxy total.
+
 Please create an issue if you have any questions.
+
+
