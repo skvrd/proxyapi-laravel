@@ -1,7 +1,7 @@
 # proxyapi-laravel
 This package will allow to utilize free proxy API from www.proxyapi.me with the Laravel Service Provider
 
-#Installation
+# Installation
 
 Simply run following command on your laravel5.5+ application
 
