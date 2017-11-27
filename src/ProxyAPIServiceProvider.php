@@ -13,7 +13,7 @@ class ProxyAPIServiceProvider extends ServiceProvider {
     
     public function register() {
         $this->app->singleton('proxy', function($app) {
-            return new Proxy($uri, $uriOptions, $driverOptions);
+            return new Proxy();
         });
     }
 }
