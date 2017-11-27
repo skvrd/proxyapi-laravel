@@ -1,0 +1,19 @@
+{
+    "name": "skvrd/proxyapi-laravel",
+    "version":"0.0.1",
+    "description": "This service provider will allow you to obrtain Proxy instancee from the www.proxyapi.me",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Skvrd\\ProxyAPI\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Skvrd\\ProxyAPI\\ProxyAPIServiceProvider"
+            ]
+        }
+    }
+}
