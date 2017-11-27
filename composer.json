@@ -1,7 +1,7 @@
 {
     "name": "skvrd/proxyapi-laravel",
-    "version":"0.1.0",
-    "description": "This service provider will allow you to obrtain Proxy instancee from the www.proxyapi.me",
+    "version":"0.1.1",
+    "description": "This service provider will allow you to obtain proxy instance from the www.proxyapi.me",
     "license": "MIT",
     "require": {
         "guzzlehttp/guzzle": "~6.0"
